@@ -11,9 +11,7 @@
 [![Vue.js](https://cdn.iconscout.com/icon/free/png-64/vue-282497.png)](https://vuejs.org/)
 [![HTML5](https://cdn.iconscout.com/icon/free/png-64/html-2752151-2284975.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![SCSS](https://cdn.iconscout.com/icon/free/png-64/sass-2752078-2284969.png)](https://sass-lang.com/documentation)
-[![Sass](https://example.com/custom-sass-icon.png)](https://sass-lang.com/documentation)11
-
+[![Sass]](https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg)
 
 ## Projects
 
