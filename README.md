@@ -17,8 +17,8 @@
 </a>
 [<img src="https://logo.clearbit.com/canva.com" alt="Canva">](https://www.canva.com/)
 [![GitHub](https://cdn.iconscout.com/icon/free/png-64/github-153-675523.png)](https://github.com/)
-[![Git](https://cdn.iconscout.com/icon/free/png-64/git-225996.png)](https://git-scm.com/)
-[<img src="https://cdn.iconscout.com/icon/free/png-64/figma-2296079-1912030.png" alt="Figma">](https://www.figma.com/)
+[![Git]([<img src="https://cdn.iconscout.com/icon/free/png-64/git-225996.png" width="64" height="64">])](https://git-scm.com/)
+[<img src="https://cdn.iconscout.com/icon/free/png-64/figma-2296079-1912030.png" alt="Figma" width="64" height="64">](https://www.figma.com/)
 [<img src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" alt="Notion" width="64" height="64">](https://www.notion.so/)
 
 
