@@ -18,9 +18,8 @@
 [<img src="https://logo.clearbit.com/canva.com" alt="Canva">](https://www.canva.com/)
 [![GitHub](https://cdn.iconscout.com/icon/free/png-64/github-153-675523.png)](https://github.com/)
 [![Git](https://cdn.iconscout.com/icon/free/png-64/git-225996.png)](https://git-scm.com/)
-<a href="https://www.figma.com/">
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="50" height="50">
-</a>
+[<img src="https://cdn.iconscout.com/icon/free/png-64/figma-2296079-1912030.png" alt="Figma">](https://www.figma.com/)
+
 
 
 
