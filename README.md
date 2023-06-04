@@ -12,7 +12,7 @@
 [![HTML5](https://cdn.iconscout.com/icon/free/png-64/html-2752151-2284975.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://cdn.iconscout.com/icon/free/png-64/sass-226054.png" alt="Sass">](https://sass-lang.com/documentation)
-[<img src="https://cdn.iconscout.com/icon/free/png-64/sass-226054.png" alt="SCSS">](https://sass-lang.com/documentation)
+[<img src="https://cdn.iconscout.com/icon/free/png-64/scss-2752079-2284970.png" alt="SCSS">](https://sass-lang.com/documentation)
 
 
 
