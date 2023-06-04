@@ -22,7 +22,22 @@
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS" width="50" height="50">
 </a>
 <a href="https://sass-lang.com/">
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sass_original_logo_icon_146348.png" alt="SCSS/Sass" width="50" height="50">
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sass_original_logo_icon_146348.png" alt="Sass" width="50" height="50">
+</a>
+<a href="https://www.figma.com/">
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_169146.png" alt="Figma" width="50" height="50">
+</a>
+<a href="https://www.notion.so/">
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/notion_plain_logo_icon_146489.png" alt="Notion" width="50" height="50">
+</a>
+<a href="https://github.com/">
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/github_original_logo_icon_146312.png" alt="GitHub" width="50" height="50">
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="Git" width="50" height="50">
+</a>
+<a href="https://www.canva.com/">
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_170970.png" alt="Canva" width="50" height="50">
 </a>
 
 
