@@ -11,10 +11,8 @@
 [![Vue.js](https://cdn.iconscout.com/icon/free/png-64/vue-282497.png)](https://vuejs.org/)
 [![HTML5](https://cdn.iconscout.com/icon/free/png-64/html-2752151-2284975.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="https://cdn.iconscout.com/icon/free/png-64/sass-226054.png" alt="Sass">](https://sass-lang.com/documentation)
-<a href="https://www.figma.com/">
-  <img src="https://cdn.iconscout.com/icon/free/png-64/figma-226055.png" alt="Figma">
-</a>
+[<img src="https://cdn.iconscout.com/icon/free/png-64/figma-2752183-2285022.png" alt="Figma">](https://www.figma.com/)
+
 
 
 
