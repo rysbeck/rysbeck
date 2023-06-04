@@ -13,8 +13,9 @@
 [<img src="https://cdn.iconscout.com/icon/free/png-64/sass-226054.png" alt="Sass">](https://sass-lang.com/documentation)
 [![NPM](https://raw.githubusercontent.com/npm/logos/master/npm%20square/n-64.png)](https://www.npmjs.com/)
 <a href="https://yarnpkg.com/">
-  <img src="https://avatars.githubusercontent.com/u/22247014?s=50&v=4" alt="Yarn" width="50" height="50">
+  <img src="https://avatars.githubusercontent.com/u/22247014?s=64&v=4" alt="Yarn" width="64" height="64">
 </a>
+
 [<img src="https://logo.clearbit.com/canva.com" alt="Canva">](https://www.canva.com/)
 
 
