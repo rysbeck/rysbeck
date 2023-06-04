@@ -10,7 +10,7 @@
 [![React](https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png)](https://reactjs.org/)
 [![Vue.js](https://cdn.iconscout.com/icon/free/png-64/vue-282497.png)](https://vuejs.org/)
 [![HTML5](https://cdn.iconscout.com/icon/free/png-64/html-2752151-2284975.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-![CSS]([http://url/to/img.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fcss-3_5968242&psig=AOvVaw2JSJEj4zFJi8jiVzp7jAi3&ust=1686004616465000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNiqrN3Wqv8CFQAAAAAdAAAAABAE))
+[![CSS]]([http://url/to/img.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fcss-3_5968242&psig=AOvVaw2JSJEj4zFJi8jiVzp7jAi3&ust=1686004616465000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNiqrN3Wqv8CFQAAAAAdAAAAABAE))
 
 
 ## Projects
