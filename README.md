@@ -19,7 +19,7 @@
 [![GitHub](https://cdn.iconscout.com/icon/free/png-64/github-153-675523.png)](https://github.com/)
 [![Git](https://cdn.iconscout.com/icon/free/png-64/git-225996.png)](https://git-scm.com/)
 [<img src="https://cdn.iconscout.com/icon/free/png-64/figma-2296079-1912030.png" alt="Figma">](https://www.figma.com/)
-[<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/notion_logo_icon_170905.png" alt="Notion">](https://www.notion.so/)
+[<img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" alt="Notion">](https://www.notion.so/)
 
 
 
