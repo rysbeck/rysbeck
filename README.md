@@ -11,7 +11,36 @@
 [![Vue.js](https://cdn.iconscout.com/icon/free/png-64/vue-282497.png)](https://vuejs.org/)
 [![HTML5](https://cdn.iconscout.com/icon/free/png-64/html-2752151-2284975.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-![Sass]([https://cloud.githubusercontent.com/assets/17016297/18681463/da12c5c2-7f2d-11e6-8c53-4cb2e8914b3a.jpg](https://silvawebdesigns.com/wp-content/uploads/2020/10/useful-sass-scss-mixins-for-every-website.jpg))
+$font-stack: Helvetica, sans-serif;
+$primary-color: #333;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
+
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+}
+
+nav {
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  li { @include border-radius(10px); }
+
+  a {
+    display: block;
+    padding: 6px 12px;
+    text-decoration: none;
+  }
+}
 
 
 ## Projects
