@@ -17,6 +17,8 @@
 </a>
 [<img src="https://logo.clearbit.com/canva.com" alt="Canva">](https://www.canva.com/)
 [![GitHub](https://cdn.iconscout.com/icon/free/png-64/github-153-675523.png)](https://github.com/)
+[![Git](https://cdn.iconscout.com/icon/free/png-64/git-225996.png)](https://git-scm.com/)
+
 
 
 
