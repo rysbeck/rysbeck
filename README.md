@@ -16,7 +16,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/rysbeck/rysbeck/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/rysbeck/output/github-contribution-grid-snake.svg">
 
 ## Projects
 
