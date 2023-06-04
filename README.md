@@ -3,7 +3,6 @@
 ![Happy Dance](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 
-> A collection of my projects showcasing my skills as a frontend developer.
 
 ## Technologies Used
 
