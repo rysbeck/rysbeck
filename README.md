@@ -6,39 +6,19 @@
 
 ## Technologies Used
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" alt="JavaScript" width="50" height="50">
-</a>
-<a href="https://reactjs.org/">
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="React" width="50" height="50">
-</a>
-<a href="https://vuejs.org/">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" alt="Vue" width="50" height="50">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML5" width="50" height="50">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS" width="50" height="50">
-</a>
-<a href="https://sass-lang.com/">
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sass_original_logo_icon_146348.png" alt="Sass" width="50" height="50">
-</a>
-<a href="https://www.figma.com/">
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_169146.png" alt="Figma" width="50" height="50">
-</a>
-<a href="https://www.notion.so/">
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/notion_plain_logo_icon_146489.png" alt="Notion" width="50" height="50">
-</a>
-<a href="https://github.com/">
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/github_original_logo_icon_146312.png" alt="GitHub" width="50" height="50">
-</a>
-<a href="https://git-scm.com/">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="Git" width="50" height="50">
-</a>
-<a href="https://www.canva.com/">
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_170970.png" alt="Canva" width="50" height="50">
-</a>
+
+[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.png)](https://reactjs.org/)
+[![Vue](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.png)](https://vuejs.org/)
+[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.png)](https://sass-lang.com/)
+[![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)](https://www.figma.com/)
+[![Notion](https://www.vectorlogo.zone/logos/notionhq/notionhq-icon.svg)](https://www.notion.so/)
+[![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.png)](https://github.com/)
+[![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.png)](https://git-scm.com/)
+[![Canva](https://www.vectorlogo.zone/logos/canva/canva-icon.svg)](https://www.canva.com/)
+
 
 
 ## Projects
