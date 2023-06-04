@@ -9,7 +9,16 @@
 [![React](https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png)](https://reactjs.org/)
 [![Vue.js](https://cdn.iconscout.com/icon/free/png-64/vue-282497.png)](https://vuejs.org/)
 [![HTML5](https://cdn.iconscout.com/icon/free/png-64/html-2752151-2284975.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-![CSS](images/css.png | width=50 | height=50) ![SCSS](images/scss.png | width=50 | height=50) ![Sass](images/sass.png | width=50 | height=50) ![Figma](images/figma.png | width=50 | height=50) ![Canva](images/canva.png | width=50 | height=50) ![Notion](images/notion.png | width=50 | height=50) ![Git](images/git.png | width=50 | height=50) ![GitHub](images/github.png | width=50 | height=50)
+<p align="center">
+  <img src="images/css.png" alt="CSS" width="50" height="50">
+  <img src="images/scss.png" alt="SCSS" width="50" height="50">
+  <img src="images/sass.png" alt="Sass" width="50" height="50">
+  <img src="images/figma.png" alt="Figma" width="50" height="50">
+  <img src="images/canva.png" alt="Canva" width="50" height="50">
+  <img src="images/notion.png" alt="Notion" width="50" height="50">
+  <img src="images/git.png" alt="Git" width="50" height="50">
+  <img src="images/github.png" alt="GitHub" width="50" height="50">
+</p>
 
 
 ## Projects
