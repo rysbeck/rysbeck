@@ -13,6 +13,8 @@
 [![CSS](https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SCSS](https://cdn.iconscout.com/icon/free/png-64/sass-226054.png)](https://sass-lang.com/documentation/syntax)
 [![Sass](https://example.com/custom-sass-icon.png)](https://sass-lang.com/documentation)
+[![Canva](https://cdn.iconscout.com/icon/free/png-64/canva-569452.png)](https://www.canva.com/)
+
 
 
 ## Projects
