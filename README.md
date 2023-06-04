@@ -1,6 +1,7 @@
 # !Ciao, 🌟I'm Rysbek />
 
 ![Happy Dance](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![Alt Text](https://example.com/path/to/image.gif)
 
 
 
