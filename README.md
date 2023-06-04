@@ -1,8 +1,6 @@
 # !Ciao, 🌟I'm Rysbek />
 
 ![Happy Dance](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-![Alt Text](https://example.com/path/to/image.gif)
-
 
 
 ## Technologies and Tools
@@ -13,6 +11,8 @@
 [![HTML5](https://cdn.iconscout.com/icon/free/png-64/html-2752151-2284975.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://cdn.iconscout.com/icon/free/png-64/sass-226054.png" alt="Sass">](https://sass-lang.com/documentation)
+[![NPM](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/320px-Npm-logo.svg.png)](https://www.npmjs.com/)
+
 
 ## Projects
 
