@@ -12,7 +12,7 @@
 [![HTML5](https://cdn.iconscout.com/icon/free/png-64/html-2752151-2284975.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://cdn.iconscout.com/icon/free/png-64/sass-226054.png" alt="Sass">](https://sass-lang.com/documentation)
-[<img src="https://cdn.iconscout.com/icon/free/png-64/sass-226054.png" alt="SCSS">](https://sass-lang.com/documentation)
+[<img src="[https://cdn.iconscout.com/icon/free/png-64/sass-226054.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASass_Logo_Color.svg&psig=AOvVaw2fUP1VO2IXu3p5bHSBNKPf&ust=1686007182347000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPiVu6Tgqv8CFQAAAAAdAAAAABAJ)" alt="SCSS">](https://sass-lang.com/documentation)
 
 
 
