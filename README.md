@@ -10,13 +10,13 @@
 [![React](https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png)](https://reactjs.org/)
 [![Vue.js](https://cdn.iconscout.com/icon/free/png-64/vue-282497.png)](https://vuejs.org/)
 [![HTML5](https://cdn.iconscout.com/icon/free/png-64/html-2752151-2284975.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-![CSS]([link_to_css_icon.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fcss-3_5968242&psig=AOvVaw3Xi4RDdeklIPrkRFfmnz_L&ust=1686003695524000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjUk6bTqv8CFQAAAAAdAAAAABAE))
-![Sass]([link_to_sass_icon.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASass_Logo_Color.svg&psig=AOvVaw1yCMveH8jYJ16DIE7fjyC1&ust=1686003719383000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiZxLHTqv8CFQAAAAAdAAAAABAE))
-![Figma]([link_to_figma_icon.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.figma.com%2Fblog%2Ffigmas-new-icon%2F&psig=AOvVaw3OzY3ybOjiClTQHwoFcHjk&ust=1686003742786000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJC127zTqv8CFQAAAAAdAAAAABAE))
-![Notion]([link_to_notion_icon.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANotion_app_logo.png&psig=AOvVaw03jEZWdvA0ZI4OdCdmnfrO&ust=1686003769544000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDuu8nTqv8CFQAAAAAdAAAAABAE))
-![GitHub]([link_to_github_icon.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw2GdPYSrfnshweA-tQUHJPm&ust=1686003794553000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDTpdXTqv8CFQAAAAAdAAAAABAJ))
-![Git]([link_to_git_icon.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgit-scm.com%2Fdownloads%2Flogos&psig=AOvVaw0QgYW-FaplaBk8brkgqi5e&ust=1686003819991000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjTveHTqv8CFQAAAAAdAAAAABAE))
-![Canva]([link_to_canva_icon.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fcanva%2F220714&psig=AOvVaw0EkxVOaeFNWAdHiGO4Oah5&ust=1686003843337000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPiY1OzTqv8CFQAAAAAdAAAAABAE))
+![CSS]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fcss-3_5968242&psig=AOvVaw3Xi4RDdeklIPrkRFfmnz_L&ust=1686003695524000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjUk6bTqv8CFQAAAAAdAAAAABAE))
+![Sass]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASass_Logo_Color.svg&psig=AOvVaw1yCMveH8jYJ16DIE7fjyC1&ust=1686003719383000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiZxLHTqv8CFQAAAAAdAAAAABAE))
+![Figma]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.figma.com%2Fblog%2Ffigmas-new-icon%2F&psig=AOvVaw3OzY3ybOjiClTQHwoFcHjk&ust=1686003742786000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJC127zTqv8CFQAAAAAdAAAAABAE))
+![Notion]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANotion_app_logo.png&psig=AOvVaw03jEZWdvA0ZI4OdCdmnfrO&ust=1686003769544000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDuu8nTqv8CFQAAAAAdAAAAABAE))
+![GitHub]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw2GdPYSrfnshweA-tQUHJPm&ust=1686003794553000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDTpdXTqv8CFQAAAAAdAAAAABAJ))
+![Git]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fgit-scm.com%2Fdownloads%2Flogos&psig=AOvVaw0QgYW-FaplaBk8brkgqi5e&ust=1686003819991000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjTveHTqv8CFQAAAAAdAAAAABAE))
+![Canva]((https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fcanva%2F220714&psig=AOvVaw0EkxVOaeFNWAdHiGO4Oah5&ust=1686003843337000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPiY1OzTqv8CFQAAAAAdAAAAABAE))
 
 
 ## Projects
