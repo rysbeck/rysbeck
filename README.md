@@ -19,9 +19,8 @@
 [![GitHub](https://cdn.iconscout.com/icon/free/png-64/github-153-675523.png)](https://github.com/)
 [![Git](https://cdn.iconscout.com/icon/free/png-64/git-225996.png)](https://git-scm.com/)
 [<img src="https://cdn.iconscout.com/icon/free/png-64/figma-2296079-1912030.png" alt="Figma">](https://www.figma.com/)
-<a href="https://www.notion.so/">
-  <img src="https://cdn.iconscout.com/icon/free/png-64/notion-3521540-2944873.png" alt="Notion" width="50" height="50">
-</a>
+[<img src="https://cdn.iconscout.com/icon/free/png-64/notion-3521540-2944873.png" alt="Notion" width="64" height="64">](https://www.notion.so/)
+
 
 
 
