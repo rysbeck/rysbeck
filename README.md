@@ -12,7 +12,7 @@
 [![HTML5](https://cdn.iconscout.com/icon/free/png-64/html-2752151-2284975.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://cdn.iconscout.com/icon/free/png-64/sass-226054.png" alt="Sass">](https://sass-lang.com/documentation)
-[<img src="[[https://cdn.iconscout.com/icon/free/png-64/figma-2752183-2285022.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.figma.com%2Fcommunity%2Ffile%2F930374612850356203&psig=AOvVaw0DsVDfhOJaf291gfDjKb4I&ust=1686007414328000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjGq5Phqv8CFQAAAAAdAAAAABAE)](https://s3-alpha.figma.com/hub/file/2715129294/a73c1de8-3955-4b6f-ba3e-eb5899d546fb-cover.png)" alt="Figma">](https://www.figma.com/)
+[<img src="(https://s3-alpha.figma.com/hub/file/2715129294/a73c1de8-3955-4b6f-ba3e-eb5899d546fb-cover.png)" alt="Figma">](https://www.figma.com/)
 
 
 
