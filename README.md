@@ -4,7 +4,7 @@
 
 
 
-## Technologies Used
+## Technologies and Tools
 
 [![JavaScript](https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png)](https://reactjs.org/)
@@ -12,11 +12,6 @@
 [![HTML5](https://cdn.iconscout.com/icon/free/png-64/html-2752151-2284975.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://cdn.iconscout.com/icon/free/png-64/sass-226054.png" alt="Sass">](https://sass-lang.com/documentation)
-<img src="https://s3-alpha.figma.com/hub/file/2715129294/a73c1de8-3955-4b6f-ba3e-eb5899d546fb-cover.png" alt="Figma">
-
-
-
-<img src="https://raw.githubusercontent.com/rysbeck/output/github-contribution-grid-snake.svg">
 
 ## Projects
 
