@@ -6,19 +6,17 @@
 
 ## Technologies Used
 
-
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.png)](https://reactjs.org/)
-[![Vue](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.png)](https://vuejs.org/)
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.png)](https://sass-lang.com/)
-[![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)](https://www.figma.com/)
-[![Notion](https://www.vectorlogo.zone/logos/notionhq/notionhq-icon.svg)](https://www.notion.so/)
-[![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.png)](https://github.com/)
-[![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.png)](https://git-scm.com/)
-[![Canva](https://www.vectorlogo.zone/logos/canva/canva-icon.svg)](https://www.canva.com/)
-
+[![JavaScript](https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png)](https://reactjs.org/)
+[![Vue.js](https://cdn.iconscout.com/icon/free/png-64/vue-282497.png)](https://vuejs.org/)
+[![HTML5](https://cdn.iconscout.com/icon/free/png-64/html-2752151-2284975.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://cdn.iconscout.com/icon/free/png-64/css-2752157-2284967.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Sass](https://cdn.iconscout.com/icon/free/png-64/sass-2752070-2284963.png)](https://sass-lang.com/)
+[![Figma](https://cdn.iconscout.com/icon/free/png-64/figma-2752180-2284977.png)](https://www.figma.com/)
+[![Notion](https://cdn.iconscout.com/icon/free/png-64/notion-3522157-2944796.png)](https://www.notion.so/)
+[![GitHub](https://cdn.iconscout.com/icon/free/png-64/github-2752247-2284985.png)](https://github.com/)
+[![Git](https://cdn.iconscout.com/icon/free/png-64/git-2752243-2284982.png)](https://git-scm.com/)
+[![Canva](https://cdn.iconscout.com/icon/free/png-64/canva-2752071-2284971.png)](https://www.canva.com/)
 
 
 ## Projects
