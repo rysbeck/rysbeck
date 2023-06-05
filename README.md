@@ -1,6 +1,6 @@
 # !Ciao, 🌟I'm Rysbek />
 <p align="center">
-[<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">]
+[<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Programming" width="1024">]
 </p>
 
 
