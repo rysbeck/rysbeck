@@ -32,3 +32,4 @@
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="30" height="30">](https://www.instagram.com/orozaliev.rsb/)
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="Instagram" width="30" height="30">](https://wa.me/+971586014711)
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30" height="30">](https://m.me/rysbeck)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/rysbeck-orozaliev/))
