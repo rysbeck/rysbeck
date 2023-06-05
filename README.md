@@ -5,7 +5,7 @@
 
 ## Technologies and Tools
 
-[![JavaScript](https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png" alt="JavaScript" width="64" height="64">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png)](https://reactjs.org/)
 [![Vue.js](https://cdn.iconscout.com/icon/free/png-64/vue-282497.png)](https://vuejs.org/)
 [![HTML5](https://cdn.iconscout.com/icon/free/png-64/html-2752151-2284975.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
