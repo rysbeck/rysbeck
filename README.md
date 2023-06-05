@@ -1,6 +1,9 @@
 # !Ciao, 🌟I'm Rysbek />
 
-  [https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif](https://media.giphy.com/media/8FPyLqXcxm7ipF52Of/giphy.gif))
+<p align="center">
+  <img src="https://media.giphy.com/media/8FPyLqXcxm7ipF52Of/giphy.gif" alt="Humor GIF">
+</p>
+
 
 ## Technologies and Tools
 
@@ -27,4 +30,4 @@
 
 [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" height="30">](https://www.t.me/rysbeck)
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="30" height="30">](https://www.instagram.com/orozaliev.rsb/)
-[<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="Instagram" width="30" height="30">](https://www.wa.me/<+971586014711>)
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="Instagram" width="30" height="30">](https://www.wa.me/+971586014711)
