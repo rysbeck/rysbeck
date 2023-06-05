@@ -11,7 +11,7 @@
 [![HTML5](https://cdn.iconscout.com/icon/free/png-64/html-2752151-2284975.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://cdn.iconscout.com/icon/free/png-64/sass-226054.png" alt="Sass">](https://sass-lang.com/documentation)
-[![NPM](https://raw.githubusercontent.com/npm/logos/master/npm%20square/n-64.png)](https://www.npmjs.com/)
+[<img src="https://raw.githubusercontent.com/npm/logos/master/npm%20square/n-64.png" alt="Github" width="64" height="64">](https://www.npmjs.com/)
 <a href="https://yarnpkg.com/">
   <img src="https://avatars.githubusercontent.com/u/22247014?s=64&v=4" alt="Yarn" width="64" height="64">
 </a>
