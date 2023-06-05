@@ -1,6 +1,6 @@
 # !Ciao, 🌟I'm Rysbek />
 <p align="center">
-[<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Programming" width="800" height="300">]
+[<img src="![Programming GIF](https://example.com/path/to/programming.gif)>]
 </p>
 
 
