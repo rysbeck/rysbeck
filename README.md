@@ -15,7 +15,7 @@
 <a href="https://yarnpkg.com/">
   <img src="https://avatars.githubusercontent.com/u/22247014?s=64&v=4" alt="Yarn" width="64" height="64">
 </a>
-[<img src="https://logo.clearbit.com/canva.com" alt="Canva">](https://www.canva.com/)
+[<img src="https://logo.clearbit.com/canva.com" alt="Canva" width="64" height="64">](https://www.canva.com/)
 [![GitHub](https://cdn.iconscout.com/icon/free/png-64/github-153-675523.png)](https://github.com/)
 [<img src="https://cdn.iconscout.com/icon/free/png-64/git-225996.png" alt="Git" width="64" height="64">](https://git-scm.com/)
 [<img src="https://cdn.iconscout.com/icon/free/png-64/figma-2296079-1912030.png" alt="Figma" width="64" height="64">](https://www.figma.com/)
