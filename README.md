@@ -2,11 +2,6 @@
 
   [https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif](https://media.giphy.com/media/8FPyLqXcxm7ipF52Of/giphy.gif))
 
-
-
-
-
-
 ## Technologies and Tools
 
 [<img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png" alt="JavaScript" width="64" height="64">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -29,4 +24,7 @@
 
 ## Contact Me
 
-[<img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-png-vectors%2Femail-icon&psig=AOvVaw0CJEhWgYjKxtjksHSxZ8SO&ust=1686011043123000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjI3NXuqv8CFQAAAAAdAAAAABAE)" width="30" height="30">](mailto:rysbeck1@gmail.com)
+
+[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" height="30">](https://www.t.me/rysbeck)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="30" height="30">](https://www.instagram.com/orozaliev.rsb/)
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="Instagram" width="30" height="30">](https://www.wa.me/<+971586014711>)
