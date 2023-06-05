@@ -30,4 +30,4 @@
 
 ## Contact Me
 
-[<img src="https://example.com/email-icon.png" width="64" height="64">](mailto:rysbeck1@gmail.com)
+[<img src="[https://example.com/email-icon.png](https://example.com/new-email-icon.png)" width="30" height="30">](mailto:rysbeck1@gmail.com)
