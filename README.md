@@ -30,6 +30,6 @@
 
 ## Contact Me
 
-- Email: [<img src="https://example.com/email-icon.png" width="64" height="64">](mailto:rysbeck1@gmail.com)
+- [<img src="https://example.com/email-icon.png" width="64" height="64">](mailto:rysbeck1@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/rysbeck-orozaliev/](https://www.linkedin.com/in/your-profile)
 - WhatsApp:
