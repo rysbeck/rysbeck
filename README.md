@@ -28,28 +28,8 @@
 [<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="64" height="64">](https://code.visualstudio.com/)
 
 
-## Projects
-
-### Project 1: Project Name
-
-- Description: Briefly describe the project, its purpose, and features.
-- Tech Stack: List the technologies and frameworks used.
-- Demo: Provide a link to the live demo or hosted version of the project.
-- GitHub Repository: Link to the GitHub repository for the project.
-
-### Project 2: Project Name
-
-- Description: Briefly describe the project, its purpose, and features.
-- Tech Stack: List the technologies and frameworks used.
-- Demo: Provide a link to the live demo or hosted version of the project.
-- GitHub Repository: Link to the GitHub repository for the project.
-
-## About Me
-
-Briefly introduce yourself, your background, and your experience as a frontend developer. Highlight your key skills and areas of expertise. Mention any relevant certifications or degrees you hold.
-
 ## Contact Me
 
-- Email: [rysbeck1@gmail.com](mailto:your-email@example.com)
+- Email: [rysbeck1@gmail.com](mailto:rysbeck1@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/rysbeck-orozaliev/](https://www.linkedin.com/in/your-profile)
 - WhatsApp:
