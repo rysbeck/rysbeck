@@ -1,8 +1,6 @@
 # !Ciao, 🌟I'm Rysbek />
-<p align="center">
-  ![GIF]([https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif](https://media.giphy.com/media/8FPyLqXcxm7ipF52Of/giphy.gif))
-</p>
 
+  [https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif](https://media.giphy.com/media/8FPyLqXcxm7ipF52Of/giphy.gif))
 
 
 
