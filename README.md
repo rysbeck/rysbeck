@@ -1,11 +1,12 @@
-# !Ciao, 🌟I'm Rysbek />
+<h1 align="center">!Ciao, 🌟I'm Rysbek</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/8FPyLqXcxm7ipF52Of/giphy.gif" alt="Humor GIF">
 </p>
+<br><br>
 
+<h2 align="center">Technologies and Tools</h2>
 
-## Technologies and Tools
 
 [<img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png" alt="JavaScript" width="64" height="64">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png" alt="React" width="64" height="64">](https://reactjs.org/)
@@ -23,9 +24,9 @@
 [<img src="https://cdn.iconscout.com/icon/free/png-64/figma-2296079-1912030.png" alt="Figma" width="64" height="64">](https://www.figma.com/)
 [<img src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" alt="Notion" width="64" height="64">](https://www.notion.so/)
 [<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="64" height="64">](https://code.visualstudio.com/)
-
-
-## Contact Me
+<br><br>
+<h2 align="center">
+Contact Me
 
 
 [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" height="30">](https://www.t.me/rysbeck)
@@ -34,3 +35,4 @@
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30" height="30">](https://m.me/rysbeck)
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/rysbeck-orozaliev/)
 [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="LinkedIn" width="30" height="30">](mailto:rysbeck1@gmail.com)
+</h2>
