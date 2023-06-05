@@ -36,3 +36,9 @@ Contact Me
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/rysbeck-orozaliev/)
 [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="LinkedIn" width="30" height="30">](mailto:rysbeck1@gmail.com)
 </h2>
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rysbeck&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rysbeck&layout=compact&theme=radical)
+
+
+
