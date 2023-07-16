@@ -24,6 +24,8 @@
 [<img src="https://cdn.iconscout.com/icon/free/png-64/figma-2296079-1912030.png" alt="Figma" width="50" height="50">](https://www.figma.com/)
 [<img src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" alt="Notion" width="50" height="50">](https://www.notion.so/)
 [<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="50" height="50">](https://code.visualstudio.com/)
+[<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="VSCode" width="50" height="50">](https://angular.io/assets/images/logos/angular/angular.svg)
+
 <br><br>
 <h2 align="center">
 Contact Me
